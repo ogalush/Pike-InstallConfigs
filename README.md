@@ -1,2 +1,3 @@
 # Pike-InstallConfigs
-Install Configs For OpenStack Pike.
+Install Configs For OpenStack Pike.  
+LicenseはGPLv2でお願いします.
